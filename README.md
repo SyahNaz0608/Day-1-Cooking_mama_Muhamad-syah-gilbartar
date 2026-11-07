@@ -296,3 +296,8 @@ git push origin main
 7. Atur identitas Git (`user.name` dan `user.email`) sebelum commit pertama.
 8. SSH key membuat autentikasi ke GitHub lebih aman. **Jangan pernah membagikan kunci privat** (file tanpa akhiran `.pub`).
 9. Commit dan push secara berkala. Seperti pesan humor di slide: *"In case of fire: git commit, git push, leave building."*
+
+## Pendapat Pribadi
+
+- Memudahkan menentukan mana pekerjaan yang sudah terselesaikan atau belum
+- Dapat mengetahui kalau versi orang lain bisa berbeda dengan cara ia menyelesaikan pekerjaannya (Branching)
